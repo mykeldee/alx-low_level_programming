@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C Programming Exercises
+0x00. C - Hello, World Exercises
