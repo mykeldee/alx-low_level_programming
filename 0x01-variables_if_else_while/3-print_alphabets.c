@@ -6,7 +6,6 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-int main(void)
 {
 	char alpha[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
@@ -17,4 +16,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-{
+}
