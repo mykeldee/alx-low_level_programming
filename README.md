@@ -1,1 +1,3 @@
-0x00. C - Hello, World Exercises
+# alx-low_level_programming exercises
+
+exercises on C programming language
