@@ -6,22 +6,15 @@
  * Return: Always 0 (Success)
  */
 int main(void)
+int main(void)
 {
-	char alpha[26] = "abcdefghijklmnopqrstuvwxyz";
-	char alphA[26] = "ABDCEFGHIJKLMNOPQRSTUVWXYZ";
-	int i = 0;
-
-	while (i < 26)
+	char alpha[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	int i;
+		
+	for (i = 0; i < 52; i++)
 	{
-		putchar(alpha[i]);
-		i++;
-	}
-	i = 0;
-	while (i < 26)
-	{
-		putchar(alphA[i]);
-		i++;
+	putchar(alpha[i]);
 	}
 	putchar('\n');
 	return (0);
-}
+{
