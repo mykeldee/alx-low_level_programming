@@ -21,6 +21,8 @@ void jack_bauer(void)
 				d = 48;
 				while (d < 58)
 				{
+					if (a >= 50 && b >= 52)
+						break;
 					_putchar(a);
 					_putchar(b);
 					_putchar(58);
