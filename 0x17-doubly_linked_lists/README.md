@@ -12,3 +12,6 @@ ALX Software Engineering Course on C Programming Doubly linked Lists
 | 6-sum_dlistint.c | Write a function that returns the sum of all the data (n) of a `dlistint_t` linked list. |
 | 7-insert_dnodeint.c, 2-add_dnodeint.c, 3-add_dnodeint_end.c | Write a function that inserts a new node at a given position. |
 | 8-delete_dnodeint.c | Write a function that deletes the node at index index of a dlistint_t linked list. |
+| 100-password | Find the password for <a href="https://github.com/holbertonschool/0x17.c">crackme4.</a> |
+| 102-result | Find the largest palindrome made from the product of two 3-digit numbers. |
+| 103-keygen.c | Write a keygen for <a href="https://github.com/holbertonschool/0x17.c">crackme5.</a> |
